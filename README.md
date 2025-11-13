@@ -1,0 +1,1 @@
+A web-based Expense Tracker built using HTML, CSS, and JavaScript to help users manage and monitor their daily expenses. It allows adding, editing, and deleting transactions while dynamically calculating total income, expenses, and balance. This project demonstrates skills in frontend design, DOM manipulation, and local storage handling for data persistence.
